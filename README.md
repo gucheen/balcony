@@ -1,2 +1,2 @@
 # balcony
-Balcony is a handlebar for building project showcase
+Balcony is a scaffold for building project showcase
